@@ -1,0 +1,15 @@
+pod repo add
+
+pod repo add-cdn
+
+pod repo update
+
+pod repo lint
+
+pod repo list
+
+pod repo remove
+
+pod repo push
+
+pod setup
